@@ -1,9 +1,3 @@
----
-layout: default
-title: "Members"
-permalink: /members/
----
-
 # Group XX
 Practical Class 1
 
