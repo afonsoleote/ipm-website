@@ -1,3 +1,8 @@
+---
+layout: single
+author_profile: true
+---
+
 # Group XX
 Practical Class 1
 

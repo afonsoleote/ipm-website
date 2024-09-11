@@ -1,3 +1,0 @@
-# About
-
-bla bla bla
