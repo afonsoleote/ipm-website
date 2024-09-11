@@ -1,5 +1,6 @@
 ---
 layout: single
+title: "Members"
 author_profile: true
 ---
 
