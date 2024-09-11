@@ -1,8 +1,8 @@
 ---
 layout: single
+title: "Assignments"
 author_profile: true
+permalink: /assignments/
 ---
-
-# Assignments
 
 bla bla bla

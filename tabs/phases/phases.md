@@ -1,8 +1,9 @@
 ---
 layout: single
+title: "Phases"
 author_profile: true
+permalink: /phases/
 ---
 
-# Project Phases
 
 bla bla bla
