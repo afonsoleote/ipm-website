@@ -1,16 +1,16 @@
 # main links
 main:
   - title: "About"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /about/
 
   - title: "Assignments"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  
+    url: /assignments/
+
   - title: "Project Phases"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /phases/
 
   - title: "Members"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /members/   # This links to the Members page you just created
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
