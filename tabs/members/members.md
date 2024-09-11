@@ -1,23 +1,24 @@
 ---
-layout: single
+layout: default
 title: "Members"
 permalink: /members/
 ---
 
-<div class="grid-container">
-
 # Group XX
+Practical Class 1
 
-<div class="grid-item">
-### Afonso Leote
+## Afonso Leote
 - **Student Number**: 69970
-- **E-mail**: a.leote@campus.fct.unl.pt.
-</div>
+- **E-mail**: a.leote@campus.fct.unl.pt
 
-<div class="grid-item">
-### João Norberto
+## João Norberto
 - **Student Number**: 69951
-- **E-mail**: jd.norberto@campus.fct.unl.pt.
-</div>
+- **E-mail**: jd.norberto@campus.fct.unl.pt
 
-</div>
+## Random Guy 1
+- **Student Number**: ?????
+- **E-mail**: ?????@campus.fct.unl.pt
+
+## Random Guy 2
+- **Student Number**: ?????
+- **E-mail**: ?????@campus.fct.unl.pt
