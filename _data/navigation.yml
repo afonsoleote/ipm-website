@@ -10,7 +10,7 @@ main:
     url: /phases/
 
   - title: "Members"
-    url: /members/   # This links to the Members page you just created
+    url: /members/   
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
