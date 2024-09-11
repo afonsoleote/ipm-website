@@ -2,6 +2,7 @@
 layout: single
 title: "Members"
 author_profile: true
+permalink: /members/
 ---
 
 # Group XX
