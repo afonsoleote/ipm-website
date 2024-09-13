@@ -4,14 +4,14 @@ layout: archive
 
 {{ content }}
 
-<!-- <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3> -->
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
-<section class="welcome-section">
+<!-- <section class="welcome-section">
   <h1>Welcome to our Website</h1>
   <p>This is my personal blog where I write about...</p>
-</section>
+</section> -->
 
-<!-- {% if paginator %}
+{% if paginator %}
   {% assign posts = paginator.posts %}
 {% else %}
   {% assign posts = site.posts %}
@@ -22,6 +22,6 @@ layout: archive
   {% for post in posts %}
     {% include archive-single.html type=entries_layout %}
   {% endfor %}
-</div> -->
+</div>
 
 {% include paginator.html %}
