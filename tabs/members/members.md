@@ -5,8 +5,7 @@ author_profile: true
 permalink: /members/
 ---
 
-# Group XX
-Practical Class 1
+# Group 5
 
 ## Afonso Leote
 - **Student Number**: 69970
@@ -16,10 +15,10 @@ Practical Class 1
 - **Student Number**: 69951
 - **E-mail**: jd.norberto@campus.fct.unl.pt
 
-## Random Guy 1
-- **Student Number**: ?????
-- **E-mail**: ?????@campus.fct.unl.pt
+## Manuel Letras da Luz
+- **Student Number**: 70199
+- **E-mail**: mal.luz@campus.fct.unl.pt
 
-## Random Guy 2
-- **Student Number**: ?????
-- **E-mail**: ?????@campus.fct.unl.pt
+## João Fernandes
+- **Student Number**: 71798
+- **E-mail**: jpma.fernandes@campus.fct.unl.pt
