@@ -10,7 +10,7 @@ one example of bad user interface design.
 
 | Author                                                                   | 
 | -------------------------------------------------------------------------|
-| <a href="/reports/section1.pdf" target="_blank">Afonso Leote</a>         |          
-| <a href="/reports/section1.pdf" target="_blank">João Norberto</a>        |
-| <a href="/reports/section1.pdf" target="_blank">joão Fernandes</a>       |
-| <a href="/reports/section1.pdf" target="_blank">Manuel Letras da Luz</a> |
+| <a href="/reports/section1.pdf" >Afonso Leote</a>         |          
+| <a href="/reports/section1.pdf" >João Norberto</a>        |
+| <a href="/reports/section1.pdf" >João Fernandes</a>       |
+| <a href="/reports/section1.pdf" >Manuel Letras da Luz</a> |
