@@ -4,7 +4,6 @@ title: "Members"
 author_profile: true
 permalink: /members/
 ---
-
 ## Group 5
 
 ### Afonso Leote

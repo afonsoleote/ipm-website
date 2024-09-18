@@ -4,7 +4,6 @@ title: "Assignments"
 author_profile: true
 permalink: /assignments/
 ---
-
 ## Assignment 1
 
 In this assignment, we found out one example of a good user interface design and
