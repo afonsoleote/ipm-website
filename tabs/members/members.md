@@ -1,9 +1,10 @@
 ---
 layout: single
-title: "Members - Group 5"
 author_profile: true
 permalink: /members/
 ---
+
+## Members - Group 5
 
 # Afonso Leote
 - **Student Number**: 69970
