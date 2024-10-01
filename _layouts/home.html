@@ -2,17 +2,26 @@
 layout: archive
 ---
 
-<div>
+{{ content }}
 
-# Members 
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
-## Group 5
+<!-- <section class="welcome-section">
+  <h1>Welcome to our Website</h1>
+  <p>This is my personal blog where I write about...</p>
+</section> -->
 
-| Name                 | Student Number | Email                            |  
-| ---------------------|----------------|----------------------------------|
-| Afonso Leote         |     69970      | a.leote@campus.fct.unl.pt        |
-| João Norberto        |     69951      | jd.norberto@campus.fct.unl.pt    |
-| Manuel Letras da Luz |     70199      | mal.luz@campus.fct.unl.pt        |
-| João Fernandes       |     71798      | jpma.fernandes@campus.fct.unl.pt |
+{% if paginator %}
+  {% assign posts = paginator.posts %}
+{% else %}
+  {% assign posts = site.posts %}
+{% endif %}
 
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+<div class="entries-{{ entries_layout }}">
+  {% for post in posts %}
+    {% include archive-single.html type=entries_layout %}
+  {% endfor %}
 </div>
+
+{% include paginator.html %}
